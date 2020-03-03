@@ -1,0 +1,7 @@
+# Session Notes for {{MACHINE}}
+
+{{IP}}
+
+# Open Ports
+
+
