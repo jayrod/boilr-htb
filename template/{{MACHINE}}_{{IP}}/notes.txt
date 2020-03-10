@@ -1,7 +1,22 @@
-# Session Notes for {{MACHINE}}
+# {{MACHINE}} {{IP}}
 
-{{IP}}
+## HOST
 
-# Open Ports
+## Enumeration
 
+### TCP
+
+### UDP
+
+### Vulnerability Summary
+
+## Exploitation Summary
+
+## Post Exploitation
+
+### Enumeration
+
+### Loot
+
+## Escalation Summary
 
