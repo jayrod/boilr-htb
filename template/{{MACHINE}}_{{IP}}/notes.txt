@@ -12,15 +12,6 @@
 
 ### UDP
 
-### Vulnerability Summary
 
-## Exploitation Summary
-
-## Post Exploitation
-
-### Enumeration
-
-### Loot
-
-## Escalation Summary
+### Action Notes
 
