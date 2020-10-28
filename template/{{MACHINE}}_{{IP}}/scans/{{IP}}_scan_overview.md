@@ -1,2 +1,0 @@
-## Scan Summary of {{IP}}
-
